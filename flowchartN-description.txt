@@ -1,6 +1,0 @@
-My process is to go and check whether or not there is coffee left in the coffee pot. 
-And if there is, check if it is still warm. If it is warm, I can drink a cup.
- 
-If it is cold, I can choose to make a new pot or skip coffee. 
-
-If there isn't any coffee left, I can choose to make a new pot or skip coffee.
